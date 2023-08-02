@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/egerdm/static/css/main.db98afe0.css",
+    "main.js": "/egerdm/static/js/main.d428f3dd.js",
+    "static/js/415.34f66820.chunk.js": "/egerdm/static/js/415.34f66820.chunk.js",
+    "static/js/787.75567ead.chunk.js": "/egerdm/static/js/787.75567ead.chunk.js",
+    "static/media/sd.png": "/egerdm/static/media/sd.3d545a5648f0c8a50c2f.png",
+    "static/media/home-main.svg": "/egerdm/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/egerdm/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Ege_Erdem_Resume.pdf": "/egerdm/static/media/Ege_Erdem_Resume.97867a901976e6dfdcfc.pdf",
+    "static/media/llm.png": "/egerdm/static/media/llm.122b0841fbd2556998ab.png",
+    "static/media/home-bg.jpg": "/egerdm/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/reco.png": "/egerdm/static/media/reco.18a3f93b4686c44c630d.png",
+    "static/media/avatar.svg": "/egerdm/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/egerdm/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/egerdm/index.html",
+    "main.db98afe0.css.map": "/egerdm/static/css/main.db98afe0.css.map",
+    "main.d428f3dd.js.map": "/egerdm/static/js/main.d428f3dd.js.map",
+    "415.34f66820.chunk.js.map": "/egerdm/static/js/415.34f66820.chunk.js.map",
+    "787.75567ead.chunk.js.map": "/egerdm/static/js/787.75567ead.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db98afe0.css",
+    "static/js/main.d428f3dd.js"
+  ]
+}
